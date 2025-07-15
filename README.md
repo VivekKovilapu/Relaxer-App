@@ -1,1 +1,1 @@
-Relaxer App
+Relaxer App - Developed a simple breathing and relaxation web app using HTML, CSS, and JavaScript. The app features a smooth animation cycle guiding users through inhale, hold, and exhale phases to promote mindfulness and reduce stress.
